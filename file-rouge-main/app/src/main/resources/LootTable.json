@@ -1,0 +1,19 @@
+[
+  {
+    "name": "mazout",
+    "drop": [
+      {
+        "type": "weapon",
+        "id": 10
+      },
+      {
+        "type": "armor",
+        "id": 10
+      },
+      {
+        "type": "consumable",
+        "id": 1
+      }
+    ]
+  }
+]
