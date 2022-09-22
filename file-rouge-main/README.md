@@ -1,6 +1,6 @@
 # file rouge
 
-# Editing this README
+# Ceci est la verison jouable dans le terminal de notre projet file rouge : MMK
 
 When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
 
